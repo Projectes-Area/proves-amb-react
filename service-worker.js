@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-fenologia/precache-manifest.9b84fcd33439b3efb873e6ca4ae05021.js"
+  "/react-fenologia/precache-manifest.5d98441c57e26bec37289d26e255ac84.js"
 );
 
 workbox.clientsClaim();
